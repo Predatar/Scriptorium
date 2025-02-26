@@ -1,0 +1,9 @@
+<svg width="24.000000" height="24.000000" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink">
+
+
+	<path id="icon"
+		d="M7.22 14.72L12.7 9.24C13.38 8.56 14.49 8.56 15.17 9.24C15.86 9.93 15.86 11.03 15.17 11.72L9.69 17.2C8.33 18.56 6.11 18.56 4.74 17.2C3.37 15.83 3.37 13.61 4.74 12.25L11.28 5.71C13.33 3.66 16.66 3.66 18.71 5.71C20.76 7.76 20.76 11.08 18.71 13.13L12.17 19.67"
+		stroke="currentColor" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"
+		stroke-linecap="round" />
+</svg>

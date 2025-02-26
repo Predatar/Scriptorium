@@ -1,0 +1,8 @@
+<svg width="24.000000" height="24.000000" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink">
+
+
+	<path id="icon"
+		d="M4 18C4 19.1 4.89 20 6 20L7.17 20C7.7 20 8.21 19.78 8.58 19.41L17 11L18.58 9.41C19.36 8.63 19.36 7.36 18.58 6.58L17.41 5.41C16.63 4.63 15.36 4.63 14.58 5.41L13 7L4.58 15.41C4.21 15.78 4 16.29 4 16.82L4 18ZM13 7L17 11"
+		stroke="currentColor" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" />
+</svg>

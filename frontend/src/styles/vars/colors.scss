@@ -1,0 +1,110 @@
+:root {
+	// Default
+
+	--white: #ffffff;
+	--black: #000000;
+
+	// Noble Black
+
+	--noble-black-100: #E8E9E9;
+	--noble-black-200: #CDCECF;
+	--noble-black-300: #9B9C9E;
+	--noble-black-400: #686B6E;
+	--noble-black-500: #363A3D;
+	--noble-black-600: #1A1D21;
+	--noble-black-700: #131619;
+	--noble-black-800: #0D0F10;
+	--noble-black-900: #060708;
+
+	// Day Blue
+
+	--day-blue-100: #EBEDFC;
+	--day-blue-200: #D2D8F9;
+	--day-blue-300: #A6B0F2;
+	--day-blue-400: #7989EC;
+	--day-blue-500: #4D62E5;
+	--day-blue-600: #3045C9;
+	--day-blue-700: #243497;
+	--day-blue-800: #182364;
+	--day-blue-900: #0C1132;
+
+	// Purple Blue
+
+	--purple-blue-100: #F0E8FD;
+	--purple-blue-200: #DECCFB;
+	--purple-blue-300: #BD9AF8;
+	--purple-blue-400: #9C67F4;
+	--purple-blue-500: #7C35F1;
+	--purple-blue-600: #5F18D4;
+	--purple-blue-700: #47129F;
+	--purple-blue-800: #300C6A;
+	--purple-blue-900: #180635;
+
+	// Sunglow
+
+	--sunglow-100: #FFFAEA;
+	--sunglow-200: #FFF3D1;
+	--sunglow-300: #FFE8A3;
+	--sunglow-400: #FFDC75;
+	--sunglow-500: #FFD147;
+	--sunglow-600: #E2B42B;
+	--sunglow-700: #AA8720;
+	--sunglow-800: #715A15;
+	--sunglow-900: #392D0B;
+
+	// Stem Green
+
+	--stem-green-100: #F7FDF4;
+	--stem-green-200: #EDFBE6;
+	--stem-green-300: #DBF7CD;
+	--stem-green-400: #C8F4B4;
+	--stem-green-500: #B6F09C;
+	--stem-green-600: #9AD37F;
+	--stem-green-700: #739F5F;
+	--stem-green-800: #4D6A3F;
+	--stem-green-900: #263520;
+
+	// Heisenberg Blue
+
+	--heisenberg-blue-100: #F1FBFE;
+	--heisenberg-blue-200: #E0F6FD;
+	--heisenberg-blue-300: #C0EDFB;
+	--heisenberg-blue-400: #A1E4F9;
+	--heisenberg-blue-500: #82DBF7;
+	--heisenberg-blue-600: #65BEDA;
+	--heisenberg-blue-700: #4C8FA4;
+	--heisenberg-blue-800: #335F6D;
+	--heisenberg-blue-900: #193037;
+
+	// Happy Orange
+
+	--happy-orange-100: #FFF2E9;
+	--happy-orange-600: #E26F20;
+	--happy-orange-900: #391C08;
+
+	// Electric Green
+
+	--electric-green-100: #F3FBF7;
+	--electric-green-600: #4AC97E;
+	--electric-green-900: #122B1D;
+
+	// Red Power
+
+	--red-power-100: #FBECEC;
+	--red-power-600: #D0302F;
+	--red-power-900: #2F0F0E;
+
+	// Gradients
+
+	--gradients-green-blue-dayBlue-600: linear-gradient(225deg, var(--day-blue-600) 0%, var(--heisenberg-blue-600) 45.31%, var(--stem-green-600) 100%);
+	--gradients-dayBlue-blue-green-600: linear-gradient(45deg, var(--day-blue-600) 0%, var(--heisenberg-blue-600) 45.31%, var(--stem-green-600) 100%);
+	--gradients-green-blue-dayBlue-500: linear-gradient(225deg, var(--day-blue-500) 0%, #87ddee 45.31%, var(--stem-green-500) 100%);
+	--gradients-dayBlue-blue-green-500: linear-gradient(45deg, var(--day-blue-500) 0%, #87ddee 45.31%, var(--stem-green-500) 100%);
+	--gradients-green-blue-500: linear-gradient(225deg, var(--heisenberg-blue-500) 0%, var(--stem-green-500) 100%);
+	--gradients-blue-500-green: linear-gradient(45deg, var(--heisenberg-blue-500) 0%, var(--stem-green-500) 100%);
+
+	// Others
+
+	--glass-stroke: rgba(255, 255, 255, 0.08);
+	--glass-modal: rgba(26, 29, 33, 0.96);
+}

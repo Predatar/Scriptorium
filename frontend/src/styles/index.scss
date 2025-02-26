@@ -1,0 +1,20 @@
+@use './vars/reset.scss';
+@use './vars/colors.scss';
+@use './vars/spacing.scss';
+@use './vars/typography.scss';
+@use './vars/variables.scss';
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-family: "Plus Jakarta Sans";
+	font-weight: var(--font-weight-400);
+	letter-spacing: 0;
+}
+
+svg {
+	width: 100%;
+	height: 100%;
+}
